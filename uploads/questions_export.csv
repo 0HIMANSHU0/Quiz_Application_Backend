@@ -1,0 +1,3 @@
+name,level,options,correctOption
+Which is keyword used for the constant variables?,Medium,"A: const, B: Integer, C: Boolean, D: floot",A
+What is N in the MERN Stack?,Easy,"A: Database, B: Node, C: React, D: Express",B
